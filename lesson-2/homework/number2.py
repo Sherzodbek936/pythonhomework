@@ -1,0 +1,5 @@
+a=input("a=")
+b=input("b=")
+c=input("c=")
+print(f"The maximum is {max(a,b,c)}")
+print(f"The minimum is {min(a,b,c)}")
